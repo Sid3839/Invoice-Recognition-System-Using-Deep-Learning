@@ -1,18 +1,12 @@
 # Invoice-Recognition-System-Using-Deep-Learning
 
--This repository presents an **end-to-end implementation of the Invoice Recognition System (IRS)** 
--The project automates the extraction of key invoice information using **Optical Character Recognition (OCR)**, **Deep Learning**, and **AI-based text understanding**.  
-It was implemented and tested in **Google Colab**, and the final working model is **hosted on Gradio** for real-time interaction.
+This repository presents an **end-to-end implementation of the Invoice Recognition System (IRS)** .The project automates the extraction of key invoice information using **Optical Character Recognition (OCR)**, **Deep Learning**, and **AI-based text understanding**.  It was implemented and tested in **Google Colab**, and the final working model is **hosted on Gradio** for real-time interaction.
 
 ---
 
 ## Overview
 
--Manual invoice processing is slow, repetitive, and error-prone due to varied invoice layouts and unstructured data formats.  
--This project introduces a scalable system that reads invoice images, detects relevant regions, performs OCR, and generates a **structured JSON output**.  
--The system minimizes manual intervention while improving **accuracy**, **speed**, and **data consistency** in financial workflows.
-
--The repository integrates both research insights and advanced AI modules for practical deployment.
+Manual invoice processing is slow, repetitive, and error-prone due to varied invoice layouts and unstructured data formats. This project introduces a scalable system that reads invoice images, detects relevant regions, performs OCR, and generates a **structured JSON output**. The system minimizes manual intervention while improving **accuracy**, **speed**, and **data consistency** in financial workflows.The repository integrates both research insights and advanced AI modules for practical deployment.
 
 ---
 
